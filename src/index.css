@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Segmented control buttons */
+.seg {
+  @apply inline-flex rounded-full border border-emerald-200 p-0.5 bg-white;
+}
+.seg-btn {
+  @apply px-3 py-1 text-sm rounded-full text-emerald-900/70;
+}
+.seg-active {
+  @apply bg-emerald-600 text-white;
+}
+
+/* Centered section heading with icon */
+.section-head {
+  @apply flex items-center justify-center gap-2 text-emerald-900 mb-4;
+}
+.section-head-icon {
+  @apply inline-flex items-center justify-center h-5 w-5 rounded-full bg-emerald-600;
+}
