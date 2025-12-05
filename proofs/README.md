@@ -1,9 +1,7 @@
-# proofs
+# Proofs 
 
-Evidence for the Individual Report:
-- GitHub commit links / screenshots
-- Screens of implemented pages (Dashboard interactions)
-- Figma links / paper sketches
-- Meeting/communication screenshots (if allowed)
+This folder contains design and development evidence for the Smart Pantry Dashboard.
 
-Note: These assets are **for documentation**, not runtime.
+- **Latest Version:** final approved Figma designs for the Dashboard UI.
+- **Old Versions:** earlier design iterations and prototypes.
+- These images are referenced in my individual report (Appendix section).
